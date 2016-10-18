@@ -4,21 +4,20 @@
 
 Game Art:
 
-Start Screen:
+Start Screen: 
 * Title of game: Monkey Jones
-\TStart Game Button. Maybe inside of a banana?
-* Background 
+* Start Game Button. Maybe inside of a banana?
+* Background \n
 First Level:
 * Background
 * Tile set of ground set
 * Vine
 * Box or pivot vine anchor point
-* Graphic that says “Score:”. Maybe put a banana on top?
-* 
+* Graphic that says “Score:”. Maybe put a banana on top? \n
 Game Over:
 * Monkey with a band-aide
 * Background
-* Retry button
+* Retry button \n
 Items:
 * Banana Item <- used for score keeping
 
