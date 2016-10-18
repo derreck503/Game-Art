@@ -6,7 +6,7 @@ Game Art:
 
 Start Screen:
 * Title of game: Monkey Jones
-* Start Game Button. Maybe inside of a banana?
+\TStart Game Button. Maybe inside of a banana?
 * Background 
 First Level:
 * Background
