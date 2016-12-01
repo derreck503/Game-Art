@@ -1,0 +1,122 @@
+fileFormatVersion: 2
+guid: a5fde712502cc5544847dfe225df2ba2
+timeCreated: 1480455435
+licenseType: Free
+TextureImporter:
+  fileIDToRecycleName:
+    21300000: 3VinesHighRes_0
+    21300002: 3VinesHighRes_1
+    21300004: 3VinesHighRes_2
+  serializedVersion: 2
+  mipmaps:
+    mipMapMode: 0
+    enableMipMap: 1
+    linearTexture: 0
+    correctGamma: 0
+    fadeOut: 0
+    borderMipMap: 0
+    mipMapFadeDistanceStart: 1
+    mipMapFadeDistanceEnd: 3
+  bumpmap:
+    convertToNormalMap: 0
+    externalNormalMap: 0
+    heightScale: 0.25
+    normalMapFilter: 0
+  isReadable: 0
+  grayScaleToAlpha: 0
+  generateCubemap: 0
+  cubemapConvolution: 0
+  cubemapConvolutionSteps: 7
+  cubemapConvolutionExponent: 1.5
+  seamlessCubemap: 0
+  textureFormat: -1
+  maxTextureSize: 2048
+  textureSettings:
+    filterMode: -1
+    aniso: 16
+    mipBias: -1
+    wrapMode: 1
+  nPOTScale: 0
+  lightmap: 0
+  rGBM: 0
+  compressionQuality: 50
+  allowsAlphaSplitting: 0
+  spriteMode: 2
+  spriteExtrude: 1
+  spriteMeshType: 1
+  alignment: 0
+  spritePivot: {x: 0.5, y: 0.5}
+  spriteBorder: {x: 0, y: 0, z: 0, w: 0}
+  spritePixelsToUnits: 100
+  alphaIsTransparency: 1
+  textureType: 8
+  buildTargetSettings: []
+  spriteSheet:
+    sprites:
+    - name: 3VinesHighRes_0
+      rect:
+        serializedVersion: 2
+        x: 0
+        y: 8
+        width: 73
+        height: 380
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline:
+      - - {x: -19.5, y: 190}
+        - {x: -35.5, y: 175}
+        - {x: -36.5, y: 163}
+        - {x: -36.5, y: -178}
+        - {x: -24.5, y: -190}
+        - {x: 23.5, y: -190}
+        - {x: 33.5, y: -184}
+        - {x: 36.5, y: -180}
+        - {x: 36.5, y: 190}
+    - name: 3VinesHighRes_1
+      rect:
+        serializedVersion: 2
+        x: 120
+        y: 8
+        width: 73
+        height: 380
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline:
+      - - {x: -19.5, y: 190}
+        - {x: -35.5, y: 175}
+        - {x: -36.5, y: 163}
+        - {x: -36.5, y: -178}
+        - {x: -24.5, y: -190}
+        - {x: 23.5, y: -190}
+        - {x: 33.5, y: -184}
+        - {x: 36.5, y: -180}
+        - {x: 36.5, y: 190}
+    - name: 3VinesHighRes_2
+      rect:
+        serializedVersion: 2
+        x: 220
+        y: 8
+        width: 73
+        height: 668
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline:
+      - - {x: 36.5, y: 309}
+        - {x: 7.5, y: 334}
+        - {x: -7.5, y: 334}
+        - {x: -24.5, y: 325}
+        - {x: -36.5, y: 279}
+        - {x: -36.5, y: -322}
+        - {x: -24.5, y: -334}
+        - {x: 23.5, y: -334}
+        - {x: 32.5, y: -328}
+        - {x: 34.5, y: -326}
+        - {x: 36.5, y: -303}
+    outline: []
+  spritePackingTag: 
+  userData: 
+  assetBundleName: 
+  assetBundleVariant: 

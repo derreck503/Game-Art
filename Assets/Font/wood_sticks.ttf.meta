@@ -1,0 +1,21 @@
+fileFormatVersion: 2
+guid: fd25c5f6aa486cc4da92f3ef7d06ea55
+timeCreated: 1480582708
+licenseType: Free
+TrueTypeFontImporter:
+  serializedVersion: 4
+  fontSize: 16
+  forceTextureCase: -2
+  characterSpacing: 0
+  characterPadding: 1
+  includeFontData: 1
+  fontName: wood sticks
+  fontNames:
+  - wood sticks
+  fallbackFontReferences: []
+  customCharacters: 
+  fontRenderingMode: 0
+  ascentCalculationMode: 1
+  userData: 
+  assetBundleName: 
+  assetBundleVariant: 
