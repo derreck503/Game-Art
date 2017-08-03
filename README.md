@@ -10,6 +10,3 @@ A fun side 2d unity scrolling platformer with a score tracking system, vine jump
 # Level 2
 
 <img src = /Images/level2.gif width = "500" height = "300" />
-
-# Demo
-<a href="https://derreck503.itch.io/monkey-zen">Click here to play!</a>
